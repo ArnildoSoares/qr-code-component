@@ -11,7 +11,7 @@ body {
   flex-direction: column;
   justify-content: center;
   background-color: hsl(212deg, 45%, 89%);
-  height: 100vh;
+  min-height: 100vh;
 }
 
 main {
